@@ -10,6 +10,9 @@ This theme is inspired by @morpheusthewhite's [Fluent theme for Spicetify.](http
 
 Tested on Microsoft Edge (Chromium) and should work on most (if not all) other Chromium-based browsers.
 
+### Download
+[![Download](https://img.shields.io/badge/Userstyles.world-017CEE?style=for-the-badge&logo=css3&logoColor=white)](https://userstyles.world/style/2321/fluent-ytm)
+
 This CSS needs a **minimum** " viewport width" of **940px**, as the YouTube Music PWA overrides all CSS when it goes lower than that.
 
 Not tested for the Electron-based [YTMDesktop](https://github.com/ytmdesktop/ytmdesktop) app.
